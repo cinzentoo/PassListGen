@@ -3,8 +3,8 @@ A tool for creating PassList for Cr4ckin' easly
 
 run the "PassGen.py" with terminal to see how to use the code
 or watch here =)))
-            +----------------------------------------======== In Linux ========--------------------------------------+
-            | > python3 passGen.py -chr=xxxxxx -min=x -max=x -out=output/x.txt                                       |
+            +----------------------------------------======== In Linux ========--------------------------------------+\n
+            | > python3 passGen.py -chr=xxxxxx -min=x -max=x -out=output/x.txt                                       |\n
             +--------------------------------------------------------------------------------------------------------+
             | or use the full command like this :                                                                    |
             | > python3 passGen.py --chars=xxxxxx --min_length=x --max_length=x --output=output/x.txt                |
